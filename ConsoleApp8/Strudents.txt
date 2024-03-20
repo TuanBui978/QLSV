@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ArrayOfStudent xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Student>
+    <Id>1</Id>
+    <Name>Bùi Quang Tuấn</Name>
+    <Class_Id>1</Class_Id>
+    <Aos>9</Aos>
+  </Student>
+  <Student>
+    <Id>2</Id>
+    <Name>Bùi Quang A</Name>
+    <Class_Id>2</Class_Id>
+    <Aos>8</Aos>
+  </Student>
+  <Student>
+    <Id>3</Id>
+    <Name>Bùi Quang B</Name>
+    <Class_Id>2</Class_Id>
+    <Aos>8</Aos>
+  </Student>
+  <Student>
+    <Id>4</Id>
+    <Name>Bùi Quang C</Name>
+    <Class_Id>3</Class_Id>
+    <Aos>8</Aos>
+  </Student>
+  <Student>
+    <Id>5</Id>
+    <Name>Bùi Quang D</Name>
+    <Class_Id>3</Class_Id>
+    <Aos>8</Aos>
+  </Student>
+  <Student>
+    <Id>6</Id>
+    <Name>Bùi Quang E</Name>
+    <Class_Id>1</Class_Id>
+    <Aos>8</Aos>
+  </Student>
+  <Student>
+    <Id>7</Id>
+    <Name>Bùi Quang F</Name>
+    <Class_Id>4</Class_Id>
+    <Aos>7</Aos>
+  </Student>
+  <Student>
+    <Id>8</Id>
+    <Name>Bùi Đức Chiến</Name>
+    <Class_Id>3</Class_Id>
+    <Aos>10</Aos>
+  </Student>
+</ArrayOfStudent>

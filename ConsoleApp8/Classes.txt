@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ArrayOfClass xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Class>
+    <Id>1</Id>
+    <Name>22T_NHAT1</Name>
+    <Faculty>CNTT</Faculty>
+  </Class>
+  <Class>
+    <Id>2</Id>
+    <Name>22T_NHAT2</Name>
+    <Faculty>CNTT</Faculty>
+  </Class>
+  <Class>
+    <Id>3</Id>
+    <Name>22T_TDH1</Name>
+    <Faculty>Điện</Faculty>
+  </Class>
+  <Class>
+    <Id>4</Id>
+    <Name>22T_TDH2</Name>
+    <Faculty>Điện</Faculty>
+  </Class>
+  <Class>
+    <Id>5</Id>
+    <Name>22T_QLDA</Name>
+    <Faculty>QLDA</Faculty>
+  </Class>
+  <Class>
+    <Id>6</Id>
+    <Name>22T_DT1</Name>
+    <Faculty>CNTT</Faculty>
+  </Class>
+</ArrayOfClass>
